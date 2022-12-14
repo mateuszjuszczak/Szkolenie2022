@@ -3,11 +3,11 @@ Szkolenie z platformy GitHub dla zespołów Pharma Support and Development w sie
 
 ## Installation
 Instalacja oprogramowania oraz repozytorium dostępna poprzez wykonanie funkcji Git Clone 
-git@github.com:mateuszjuszczak/Szkolenie2022.git
+[GIT] (git@github.com:mateuszjuszczak/Szkolenie2022.git)
 
 ## License
 MIT License
-
+[MIT] (https://choosealicense.com/licenses/mit/)
 Copyright (c) [2022] [Mateusz Juszczak]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
