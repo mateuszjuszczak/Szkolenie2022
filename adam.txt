@@ -4,3 +4,5 @@ Another line
 Another line3
 
 Jestem Mateusz
+
+Zmiana dla GitHub desktop
