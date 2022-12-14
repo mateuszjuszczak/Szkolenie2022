@@ -1,2 +1,5 @@
 Jestem Adam
 Jestem Maciej
+
+Zmiana dla GirFork
+Konflikt dla GitFork
