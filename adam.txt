@@ -6,3 +6,4 @@ Another line3
 Jestem Mateusz
 
 Zmiana dla GitHub desktop
+1234
