@@ -9,3 +9,5 @@ Zmiana dla GitHub desktop
 1234
 
 Cherry Pick adjustments 
+
+Welcome Okno!
